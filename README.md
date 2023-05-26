@@ -15,9 +15,10 @@
 
 ## Overview
 
-Luxury Car Rental is a modern web application that allows users to explore a collection of luxury cars and easily rent their desired car. The application is built using Angular and utilizes HTML, CSS, and JavaScript for the frontend development.
+Лендинг одностраничного приложения для аренды автомобилей, написанный с помощью Angular
 
-## <p align="center">
+## Link for Project
+<p align="center">
   <a href="https://olgaolgar47.github.io/cars-hw/" target="_blank" rel="noopener noreferrer">
     View Demo
   </a>
