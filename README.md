@@ -1,10 +1,6 @@
 <h1 align="center">Luxury Car Rental</h1>
 
 <p align="center">
-  <img src="https://your-website-url.com/images/logo.png" alt="Luxury Car Rental Logo" width="200" height="200">
-</p>
-
-<p align="center">
   <strong>🚗 Explore the world of luxury cars and rent your dream car! 🌟</strong>
 </p>
 
@@ -21,19 +17,13 @@
 
 Luxury Car Rental is a modern web application that allows users to explore a collection of luxury cars and easily rent their desired car. The application is built using Angular and utilizes HTML, CSS, and JavaScript for the frontend development.
 
-## Key Features
+## <p align="center">
+  <a href="https://olgaolgar47.github.io/cars-hw/" target="_blank" rel="noopener noreferrer">
+    View Demo
+  </a>
+</p>
 
-- Browse through a wide range of luxury cars
-- View detailed information and high-quality images of each car
-- Filter cars by brand, model, or price range
-- Reserve a car by selecting the desired rental period
-- Secure online payment system
-- User authentication and personalized user profiles
 
-## Installation
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/luxury-car-rental.git
 
