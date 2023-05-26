@@ -18,9 +18,9 @@
 Лендинг одностраничного приложения для аренды автомобилей, написанный с помощью Angular
 
 ## Link for Project
-<p align="center">
+<p align="left">
   <a href="https://olgaolgar47.github.io/cars-hw/" target="_blank" rel="noopener noreferrer">
-    View Demo
+    View Demo!!
   </a>
 </p>
 
